@@ -11,7 +11,6 @@ import schedule
 import shutil
 import os
 from datetime import datetime
-import pyautogui
 
 # Configure Chrome Debug Session
 def get_chrome_driver():
